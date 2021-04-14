@@ -1,3 +1,6 @@
+
+[TODO] add an emoji or project banner
+
 # WikiGraph
 
 Makes graph from wikipedia links.
