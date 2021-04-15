@@ -36,4 +36,4 @@ Next, open the ```.gexf``` file in Gephi and edit it until it looks complete.
 
 ## Picture of result
 ![alt text](https://github.com/JustinPLee/WikiGraph/blob/main/Earth-D2-R0.015.png?raw=true)
-This graph shows 
+This graph shows related links (nodes) connected to other links by edges. I started with Earth as the Wikipedia subject using a depth of two and a ratio of 0.015. By looking at the connected edges, I can trace a link's connections to its origin.
