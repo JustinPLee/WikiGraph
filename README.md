@@ -35,4 +35,4 @@ python main.py && python convert_networkx.py
 Next, open the ```.gexf``` file in Gephi and edit it until it looks complete.
 
 ## Picture of result
-![alt text](https://github.com/JustinPLee/WikiGraph/blob/main/Earth-D2-R0.015.PNG?raw=true)
+![alt text](https://github.com/JustinPLee/WikiGraph/blob/main/Earth-D2-R0.015.png?raw=true)
