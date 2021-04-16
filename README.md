@@ -19,7 +19,7 @@ This project visualizes connections between Wikipedia links using Python to fetc
 
 
 ## How to run 
-First choose a Wikipedia topic and depth and ratio. For example, if you wanted to search links from https://en.wikipedia.org/wiki/Discord, modify line 124 in main.py with the string. To modify the depth, go to line 125 and type an integer. To modify the ratio, go to line 101 and insert a decimal between 0 and 1. 
+First choose a Wikipedia topic and depth and ratio. For example, if you wanted to search links from https://en.wikipedia.org/wiki/Discord, modify line 124 in ```main.py``` with the string. To modify the depth, go to line 125 and type an integer. To modify the ratio, go to line 101 and insert a decimal between 0 and 1. 
 
 First parse wikipedia 
 
