@@ -19,7 +19,7 @@ This project visualizes connections between Wikipedia links using Python to fetc
 
 
 ## How to run 
-First choose a Wikipedia topic and depth and ratio. For example, if you wanted to search links from https://en.wikipedia.org/wiki/Discord, the topic would be "Discord". Then modify in main.py.
+First choose a Wikipedia topic and depth and ratio. For example, if you wanted to search links from https://en.wikipedia.org/wiki/Discord, modify line 124 in main.py with the string. To modify the depth, go to line 125 and type an integer. To modify the ratio, go to line 101 and insert a decimal between 0 and 1. 
 
 First parse wikipedia 
 
@@ -34,3 +34,6 @@ Next, open the ```.gexf``` file in Gephi and edit it until it looks complete.
 ## Picture of result
 ![alt text](https://github.com/JustinPLee/WikiGraph/blob/main/Earth-D2-R0.015.png?raw=true)
 This graph shows related links (nodes) connected to other links by edges. I started with Earth as the Wikipedia subject using a depth of two and a ratio of 0.015. By looking at the connected edges, I can trace a link's connections to its origin.
+
+[TODO] 
+Allow ratio to be modified from main and pass it as a parameter
