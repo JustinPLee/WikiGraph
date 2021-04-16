@@ -1,6 +1,4 @@
 
-[TODO] add an emoji or project banner, add banner buttons https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
-
 # WikiGraph
 
 Makes graph from wikipedia links.
@@ -13,7 +11,6 @@ Gephi successfully loads 9481 nodes and 25648 edges (highest number tested so fa
 This project visualizes connections between Wikipedia links using Python to fetch Wikipedia links and Networkx and Gephi to generate a graph. Depth and ratio variables can be changed to determine how many links are searched. The depth variable specifies how many times a link's children is searched. The ratio variable beween 0 and 1 tells what percentage to randomly sample from all links for each page.
 
 ## Dependencies
-[TODO]
 - python (v...)
 - beautifulsoup (v...)
 - requests (v...)
